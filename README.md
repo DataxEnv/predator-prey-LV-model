@@ -1,4 +1,4 @@
-# predator-prey Model Under the Lotka-Volterra (LV) System. 
+# Predator-prey Model Under the Lotka-Volterra (LV) System. 
 Predator-Prey dynamics is one of the simplest non-linear ecological systems. The **Lotka-Volterra (LV)** framework provides a minimal mathematical representation of these interactions. It expresses population change as a set of **coupled differential equation**.
 
 
@@ -27,6 +27,6 @@ where:
 ## The Simulation
 The coupled differential equations are Numerically integrated to observe the system dynamics over time.
 
-![WhatsApp Image 2026-02-27 at 3 17 56 AM](https://github.com/user-attachments/assets/89ac89c1-531c-413f-8d47-c1ef447ceb4f)
+
 
 Figure 2: Simulated Predator-prey osillations generated from the LV system.
