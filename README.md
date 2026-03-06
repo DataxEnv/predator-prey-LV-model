@@ -27,6 +27,6 @@ where:
 ## The Simulation
 The coupled differential equations are Numerically integrated to observe the system dynamics over time.
 
-
+<img width="700" height="400" alt="plot" src="https://github.com/user-attachments/assets/294e456a-9ba8-457d-9b05-859a3054f05b" />
 
 Figure 2: Simulated Predator-prey osillations generated from the LV system.
